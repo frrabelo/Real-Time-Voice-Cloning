@@ -67,5 +67,11 @@ depending on whether you downloaded any datasets. If you are running an X-server
 
 ### 6. Video
 https://youtu.be/N77BWahqlbA
+https://youtu.be/zZmZbFvTuHk
+https://youtu.be/Kfr_FZof_hs
+
+
+
+https://deepspeech.readthedocs.io/en/latest/Python-API.html
 
 
